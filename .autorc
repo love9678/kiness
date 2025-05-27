@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "love9678",
+  "repo": "kiness",
+  "name": "love9678",
+  "email": "kines96617.6@gmail.com",
+}
